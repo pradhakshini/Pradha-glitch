@@ -54,7 +54,7 @@ Completed projects in **full-stack development** and actively practicing **DSA**
 ### 🚀 LeetCode  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Pradhakshini_p-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Pradhakshini_p/)  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pradhakshini_p?theme=dark&ext=contest)  
-![LeetCode Heatmap](https://leetcode-stats.vercel.app/?username=Pradhakshini_p&theme=dark)
+![LeetCode Heatmap](https://leetcode-stats.vercel.app/api/heatmap?username=Pradhakshini_p)
 
 ### 🍫 CodeChef  
 [![CodeChef](https://img.shields.io/badge/CodeChef-pradhakshini40-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pradhakshini40)  
@@ -115,3 +115,4 @@ An automated leave application portal for streamlined management.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+
