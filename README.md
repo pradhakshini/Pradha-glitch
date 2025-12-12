@@ -57,9 +57,8 @@ Completed projects in **full-stack development** and actively practicing **DSA**
 ![LeetCode Heatmap](https://leetcode-stats.vercel.app/api/heatmap?username=Pradhakshini_p)
 
 ### 🍫 CodeChef  
-[![CodeChef](https://img.shields.io/badge/CodeChef-pradhakshini40-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pradhakshini40)  
-![CodeChef Rating](https://cp-logo.vercel.app/codechef/pradhakshini40)
-
+<!-- CodeChef Badge -->
+[![CodeChef](https://img.shields.io/badge/CodeChef-pradhakshini40-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pradhakshini40)
 ---
 
 ## 📊 GitHub Stats
@@ -70,6 +69,7 @@ Completed projects in **full-stack development** and actively practicing **DSA**
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pradha-glitch&theme=react-dark&hide_border=true)](https://github.com/Pradha-glitch)
 
+<!-- GitHub Snake -->
 ![GitHub Snake](https://raw.githubusercontent.com/Pradha-glitch/Pradha-glitch/output/github-contribution-grid-snake.svg)
 
 ---
