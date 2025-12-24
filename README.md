@@ -1,11 +1,11 @@
 <!-- ================= HERO BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6a11cb,100:2575fc&height=180&section=header&text=Pradhakshini%20P&fontSize=48&fontColor=ffffff&desc=AI%20%7C%20DSA%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=170&section=header&text=Pradhakshini%20P&fontSize=48&fontColor=ffffff&desc=Aspiring%20Software%20Developer%20|%20AI%20%26%20Data%20Science&descSize=18&descAlignY=75"/>
 </p>
 
-<!-- ================= TYPING ANIMATION ================= -->
+<!-- ================= TYPING EFFECT ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1200&color=6A11CB&center=true&vCenter=true&width=900&lines=HELLO+WORLD+👋;I'M+PRADHAKSHINI+P;AI+%26+DATA+SCIENCE+STUDENT;FUTURE+SOFTWARE+ENGINEER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&lines=HELLO+WORLD+👋;I'M+PRADHAKSHINI+P;AI+%26+DATA+SCIENCE+ENGINEER;FULL+STACK+DEVELOPER;DSA+ENTHUSIAST" />
 </p>
 
 ---
@@ -13,59 +13,71 @@
 ## 📖 About Me
 <img src="https://media.tenor.com/YZPnGuPeZvQAAAAd/programming-coding.gif" width="90" align="right">
 
-👩‍💻 B.Tech AI & Data Science student passionate about **software engineering, AI development & system design**  
-🚀 Actively building full-stack and machine-learning applications  
-🧠 Strong interest in **DSA, backend systems & scalable architectures**  
-📊 Experienced in data preprocessing, modeling & visualization  
-🐧 Comfortable with Linux, Git & developer toolchains  
-🤝 Love collaborating on impactful tech projects
+🎓 **B.Tech Artificial Intelligence & Data Science Undergraduate**  
+I am a motivated and detail-oriented engineering student with a strong interest in **software development, machine learning, and backend systems**. I enjoy transforming complex problems into efficient digital solutions.
+
+💡 **Core Interests**  
+• Data Structures & Algorithms  
+• Full-Stack Web Development  
+• Machine Learning Model Building  
+• Backend & System Logic  
+
+🛠️ **Hands-On Experience**  
+• Developing scalable web applications using React and Node.js  
+• Training and optimizing ML models using Python and Scikit-learn  
+• Performing data preprocessing, feature engineering, and visualization  
+• Working with REST APIs, databases, and version control tools  
+
+🎯 **Career Vision**  
+To become a skilled **Software Development Engineer** who builds reliable, scalable, and intelligent technology products that create real-world impact.
+
+🤝 **Collaboration & Growth**  
+I value teamwork, continuous learning, and contributing to innovative projects that challenge me to grow technically and professionally.
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,mysql,mongodb,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,express,mysql,mongodb,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 🏅 Coding Profiles
+## 🏅 Coding Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Pradhakshini_p?theme=dark&font=Montserrat&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Pradhakshini_p?theme=dark&font=Poppins&ext=heatmap" />
 </p>
 
 ---
 
-## 🚀 Signature Projects
+## 🚀 Featured Projects
 
 ### 🔹 AI Medical Diagnosis Agent
-<p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="65%" />
-</p>
-• Symptom-based disease classification  
-• Probability ranking & chat interface  
-• **Tech:** Python, ML, Pandas  
+• Symptom-based disease probability engine  
+• Chat-style prediction system  
+• **Tech:** Python, Pandas, ML  
 
 ---
 
 ### 🔹 Financial Fraud Detection System
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="65%" />
-</p>
-• SMOTE balanced fraud classifier  
-• Feature engineering & model tuning  
-• **Tech:** Python, Scikit-learn  
+• SMOTE balanced ML fraud classifier  
+• Feature engineering & tuning  
+• **Tech:** Python, Scikit-learn, Matplotlib  
+
+---
+
+### 🔹 House Price Prediction
+• Regression based price prediction  
+• Data preprocessing & model validation  
+• **Tech:** Python, Pandas, ML  
 
 ---
 
 ### 🔹 Underwater Image Enhancement
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="65%" />
-</p>
 • Deep learning based clarity enhancement  
-• Color & contrast correction  
+• Color & contrast optimization  
 • **Tech:** OpenCV, CNN  
 
 ---
@@ -88,11 +100,14 @@
   <a href="https://www.linkedin.com/in/pradhakshini-p">
     <img src="https://img.shields.io/badge/LinkedIn-Pradhakshini%20P-6A5ACD?style=for-the-badge&logo=linkedin">
   </a>
+  <a href="https://github.com/Pradha-glitch">
+    <img src="https://img.shields.io/badge/GitHub-Pradha--glitch-000000?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 </p>
 
 
