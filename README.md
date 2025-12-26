@@ -1,13 +1,13 @@
-<!-- Banner -->
+<!-- ================== Banner ================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pradhakshini/assets/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/pradhakshini/assets/main/banner.png" alt="Pradhakshini Banner" width="85%" />
 </p>
 
 # 👋 Hi, I’m Pradhakshini P
 **Aspiring Software Developer | AI & Data Science Enthusiast | Full-Stack Developer**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=7F9CF5&width=435&lines=AI+Enthusiast;Machine+Learning;Web+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=7F9CF5&width=500&lines=AI+Enthusiast;Machine+Learning;Web+Developer;Problem+Solver" />
 </p>
 
 ---
