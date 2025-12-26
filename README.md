@@ -1,132 +1,89 @@
-<!-- ================== Banner ================== -->
+<!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pradhakshini/assets/main/banner.png" alt="Pradhakshini Banner" width="85%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=250&section=header&text=Pradhakshini%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Full%20Stack%20%7C%20ML%20Engineer&descSize=20" />
 </p>
 
-# 👋 Hi, I’m Pradhakshini P
-**Aspiring Software Developer | AI & Data Science Enthusiast | Full-Stack Developer**
+<h2 align="center">Aspiring Software Engineer • AI & Data Science • Full Stack Developer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=7F9CF5&width=500&lines=AI+Enthusiast;Machine+Learning;Web+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Machine+Learning;Web+Developer;AI+Engineer;Problem+Solver" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-I am passionate about building **AI-powered solutions** and **full-stack applications** that solve real-world problems.  
-
-- 🎓 Currently pursuing [Your Degree / College]  
-- 💻 Skills: Python, Java, HTML, CSS, JavaScript, React, ML, AI, NLP, CV  
-- 🌱 Learning: Advanced AI, Deep Learning, IoT  
-- 💡 Interests: Computer Vision, NLP, Data Science, Web Development  
+- AI & Data Science Student passionate about real-world AI systems  
+- Building production-ready Machine Learning & Full-Stack projects  
+- Focused on **Healthcare AI, Finance AI & Environmental AI**
 
 ---
 
-## 🛠 Skills & Tech Stack
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,flask,streamlit,tensorflow,opencv,git" />
 </p>
 
 ---
 
-## 🏆 Achievements
-- Completed multiple AI & ML projects with real-world applications  
-- Actively contributing to open-source AI & web projects  
-- Competed in coding challenges on **LeetCode, Codeforces, CodeChef**  
+## 🚀 Featured Projects
 
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-### 1️⃣ Fraud Detection Project (ML)
-[![Fraud Project](https://raw.githubusercontent.com/pradhakshini/fraud-detection-project-ml/main/fraud_dectect.img.jpg)](https://github.com/pradhakshini/fraud-detection-project-ml)  
-**Detect fraudulent financial transactions using ML with high accuracy.**  
-**Tools Used:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
-
----
-
-### 2️⃣ Underwater AI
-[![Underwater AI](https://raw.githubusercontent.com/pradhakshini/Underwater-AI/main/%F0%9F%8C%8A%20AI%20in%20Coral%20Reef%20Monitoring_%20AI%20analyzes%20underwater%20footage%20to%20assess%20coral%20reef%20health_%20What%20if%20AI%20could%20help%20save%20endangered%20marine%20ecosystems_%20%23AICoralReef%20%23MarineConservation.jpg)](https://github.com/pradhakshini/Underwater-AI)  
-**AI-powered solution for monitoring coral reef health using computer vision.**  
-**Tools Used:** Python, OpenCV, TensorFlow, FastAPI  
-
----
-
-### 3️⃣ AI Agents for Medical Diagnostics
-[![Medical AI](https://raw.githubusercontent.com/pradhakshini/AI-Agents-for-Medical-Diagnostics/refactor/project-structure/AI%20Manager_%20The%20Role%20Of%20AI%20In%20Shaping%20The%20Future%202025.jpg)](https://github.com/pradhakshini/AI-Agents-for-Medical-Diagnostics)  
-**AI-driven assistant to analyze medical reports and provide diagnostic insights.**  
-**Tools Used:** Python, NLP, Machine Learning, Streamlit  
-
-</div>
-
----
-
-## 📈 GitHub Stats
+### 🏦 Fraud Detection System (ML)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradhakshini&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhakshini&layout=compact&theme=radical" />
+<a href="https://github.com/pradhakshini/fraud-detection-project-ml">
+<img width="80%" src="https://raw.githubusercontent.com/pradhakshini/fraud-detection-project-ml/main/fraud_dectect.img.jpg" />
+</a>
+</p>
+**Detects fraudulent financial transactions using ML models to prevent losses.**  
+`Python • Pandas • Scikit-Learn • Data Analytics`
+
+---
+
+### 🌊 Underwater AI – Coral Reef Monitoring
+<p align="center">
+<a href="https://github.com/pradhakshini/Underwater-AI">
+<img width="80%" src="https://raw.githubusercontent.com/pradhakshini/Underwater-AI/main/%F0%9F%8C%8A%20AI%20in%20Coral%20Reef%20Monitoring_%20AI%20analyzes%20underwater%20footage%20to%20assess%20coral%20reef%20health_%20What%20if%20AI%20could%20help%20save%20endangered%20marine%20ecosystems_%20%23AICoralReef%20%23MarineConservation.jpg" />
+</a>
+</p>
+**AI analyzes underwater footage to assess coral reef health.**  
+`OpenCV • TensorFlow • Computer Vision • Environmental AI`
+
+---
+
+### 🏥 AI Agents for Medical Diagnostics
+<p align="center">
+<a href="https://github.com/pradhakshini/AI-Agents-for-Medical-Diagnostics">
+<img width="80%" src="https://raw.githubusercontent.com/pradhakshini/AI-Agents-for-Medical-Diagnostics/main/AI%20Manager_%20The%20Role%20Of%20AI%20In%20Shaping%20The%20Future%202025.jpg" />
+</a>
+</p>
+**Multi-agent AI system for analyzing medical reports and assisting diagnosis.**  
+`NLP • Streamlit • ML • Healthcare AI`
+
+---
+
+## 🏆 Competitive Coding
+
+<p align="center">
+<a href="https://leetcode.com/u/Pradhakshini_p/"><img src="https://img.shields.io/badge/LeetCode-Pradhakshini_p-F79F1F?style=for-the-badge&logo=leetcode" /></a>
+<a href="https://codolio.com/profile/pradha_98"><img src="https://img.shields.io/badge/Codolio-Portfolio-blue?style=for-the-badge" /></a>
+<a href="https://www.codechef.com/users/pradhakshini40"><img src="https://img.shields.io/badge/CodeChef-Pradhakshini40-5B4638?style=for-the-badge&logo=codechef" /></a>
 </p>
 
 ---
 
-## 🌐 Competitive Coding & Portfolio
-
-<div align="center">
-
-<!-- LeetCode Card -->
-<a href="https://leetcode.com/u/Pradhakshini_p/" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/LeetCode-Pradhakshini_p-F79F1F?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
-  <br>
-  <sub>Solve problems, improve algorithm skills</sub>
-</a>
-&nbsp;&nbsp;
-
-<!-- Codolio Card -->
-<a href="https://codolio.com/profile/pradha_98" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Codolio-View%20Portfolio-blue?style=for-the-badge&logo=Codolio&logoColor=white" alt="Codolio"/>
-  <br>
-  <sub>Explore my coding projects & portfolio</sub>
-</a>
-&nbsp;&nbsp;
-
-<!-- CodeChef Card -->
-<a href="https://www.codechef.com/users/pradhakshini40" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/CodeChef-Pradhakshini40-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  <br>
-  <sub>Competitive programming challenges</sub>
-</a>
-
-</div>
-
----
-
-## 🌐 Connect with Me
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/pradhakshini-p/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=pradhakshini&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhakshini&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-✨ *“Turn ideas into code and problems into solutions.”*
+## 📫 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/pradhakshini-p/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
+</p>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
+<h3 align="center">✨ Building AI that solves real problems ✨</h3>
