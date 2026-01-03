@@ -73,9 +73,10 @@ ML system to detect fraudulent financial transactions using classification model
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradhakshini&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradhakshini&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradhakshini-p&show_icons=true&theme=radical&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradhakshini-p&theme=radical&cache_seconds=1800" width="48%"/>
 </p>
+
 
 ---
 
